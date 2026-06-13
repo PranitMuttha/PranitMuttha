@@ -17,7 +17,7 @@ MSc Web & Data Science @ University of Koblenz · Werkstudent @ SUNDECK Consulti
 
 I am a Full-Stack Developer and Entrepreneur with a strong background in Artificial Intelligence and Data Science. I focus on building scalable SaaS platforms, automated data extraction tools, and seamless user experiences.
 
-Currently pursuing my **MSc in Web and Data Science** at the University of Koblenz, while working as a Werkstudent at a Koblenz-based HR consultancy on WordPress × ATS integrations via GraphQL, and actively developing enterprise web applications.
+Currently pursuing my **MSc in Web and Data Science** at the University of Koblenz, while working as a Werkstudent at a Koblenz-based HR consultancy on WordPress × Workflow Optimization, and actively developing enterprise web applications.
 
 ---
 
