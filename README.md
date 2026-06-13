@@ -7,7 +7,7 @@
 MSc Web & Data Science @ University of Koblenz · Werkstudent @ SUNDECK Consulting · Founder of Muttha Finance
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranit.live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://pranit.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranit_Muttha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranit_Muttha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranit-muttha/)
 [![Muttha Finance](https://img.shields.io/badge/Muttha_Finance-app.mutthasales.in-6366F1?style=flat-square&logo=rocket&logoColor=white)](https://app.mutthasales.in)
 [![Location](https://img.shields.io/badge/📍_Koblenz,_Germany-555555?style=flat-square)](#)
 
